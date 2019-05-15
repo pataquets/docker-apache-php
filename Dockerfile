@@ -1,4 +1,4 @@
-FROM pataquets/apache:xenial
+FROM pataquets/apache:bionic
 
 RUN \
   apt-get update && \
